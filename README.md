@@ -2,11 +2,11 @@
 
 # Flash: Social Media Content Generator
 
-Flash is a powerful Next.js application that leverages AI to generate engaging content for various social media platforms. This project uses cutting-edge technologies to provide users with an intuitive interface for creating Twitter threads, Instagram captions, and LinkedIn posts.
+Flash is a powerful Next.js application that leverages AI to generate engaging content for various social media platforms. This project uses cutting-edge technologies to provide users with an intuitive interface for creating Twitter threads, Instagram captions, and LinkedIn posts and Youtube Scripts.
 
 ## Features
 
-- AI-powered content generation for Twitter, Instagram, and LinkedIn
+- AI-powered content generation for Twitter, Instagram, LinkedIn and Youtube
 - User authentication and account management with Clerk
 - Points-based system for content generation
 - Content history and regeneration
